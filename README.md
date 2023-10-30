@@ -27,11 +27,11 @@ We are using two services of the firebase:-
 ## 4. MIT App Inventor:
  MIT App Inventor is a programming learning tool that is aimed at total beginners but also novices wishing to advance further. It came about as a collaboration between Google and MIT. It uses coding to create real-world usable apps for Android and iOS devices.
 ![Block diagram](https://i.imgur.com/qTqJT4M.png)
-![Hardware Model](https://i.imgur.com/UEDJc80)
-![schemetic diagram](https://i.imgur.com/Jz7t4Jt)
-![App interface](https://i.imgur.com/EzIn5aS)
-![Google firebase](https://i.imgur.com/6OPXm1M)
-![flow chart](https://i.imgur.com/D1PsUCl.png)
+![Hardware Model](https://i.imgur.com/UEDJc80.png)
+![schemetic diagram](https://i.imgur.com/Jz7t4Jt.png)
+![App interface](https://i.imgur.com/EzIn5aS.png)
+![Google firebase](https://i.imgur.com/6OPXm1M.png)
+![flow chart](https://i.imgur.com/D1PsUCl.png.png)
 ## Conclusion
 The main purpose of home automation system is to provide ease to people to control different home appliances with the help of the android application present in the mobile phones and to save electricity, time and money. Automation of the home may have ones seemed like a particular and unlikely concept, but as our devices become smarter and more investment is poured into development of IoT consumer products.
 Our model is slightly different from the Arduino Type model as our model includes NodeMCU ESP8266 microcontroller-embedded with WiFi module ESP8266. That makes the model more compact and easier to connect with the house loads. It is cost effective as it includes the microcontroller and wifi embedded in the development board.
