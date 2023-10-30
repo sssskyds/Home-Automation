@@ -8,7 +8,7 @@ The use of wireless technologies gives several advantages that could not be achi
 # MAIN COMPONENTS USED
 ## 1. NodeMCU:
  NodeMCU is based on the ESP8266-12E WIFI System-On-Chip, loaded with an open source, Lua-based firmware. The board is perfect for IoT application and other Situation where wireless connectivity is required. It has microcontroller-equipped prototyping boards which can be programmed using the Arduino IDE.![Nodemcu]
-![NodeMcu](https://i.imgur.com/9K9bggy)
+![NodeMcu](https://i.imgur.com/9K9bggy.png)
 
 ## NodeMCU ESP8266 Specifications & Features
 
