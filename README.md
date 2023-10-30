@@ -17,7 +17,7 @@ The use of wireless technologies gives several advantages that could not be achi
 
 ## 2. Relay: 
 The relay is the device that open or closes the contacts to cause the operation of the other electric control. It works on the principle of an electromagnetic attraction. When the circuit of the relay senses the fault current, it energies the electromagnetic field which produces the temporary magnetic field. The magnetic field moves the relay armature for opening or closing the connections. The small power relay has only one contacts, and the high power relay has two contacts for opening the switch.
-![](https://i.imgur.com/vOwX7WA.png)
+![RELAY](https://i.imgur.com/vOwX7WA.png)
 
 ## 3. Google Firebase:
  Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides number of services, including: analytics, authentication, cloud messaging, realtime database, crashlytics, performance, test lab.
@@ -27,11 +27,17 @@ We are using two services of the firebase:-
 ## 4. MIT App Inventor:
  MIT App Inventor is a programming learning tool that is aimed at total beginners but also novices wishing to advance further. It came about as a collaboration between Google and MIT. It uses coding to create real-world usable apps for Android and iOS devices.
 ![Block diagram](https://i.imgur.com/qTqJT4M.png)
+Block diagram
 ![Hardware Model](https://i.imgur.com/UEDJc80.png)
+Hardware Model
 ![schemetic diagram](https://i.imgur.com/Jz7t4Jt.png)
+schemetic diagram
 ![App interface](https://i.imgur.com/EzIn5aS.png)
+App interface
 ![Google firebase](https://i.imgur.com/6OPXm1M.png)
+Google firebase
 ![flow chart](https://i.imgur.com/D1PsUCl.png.png)
+flow chart
 ## Conclusion
 The main purpose of home automation system is to provide ease to people to control different home appliances with the help of the android application present in the mobile phones and to save electricity, time and money. Automation of the home may have ones seemed like a particular and unlikely concept, but as our devices become smarter and more investment is poured into development of IoT consumer products.
 Our model is slightly different from the Arduino Type model as our model includes NodeMCU ESP8266 microcontroller-embedded with WiFi module ESP8266. That makes the model more compact and easier to connect with the house loads. It is cost effective as it includes the microcontroller and wifi embedded in the development board.
