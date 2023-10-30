@@ -7,7 +7,7 @@ The use of wireless technologies gives several advantages that could not be achi
 
 # MAIN COMPONENTS USED
 ## 1. NodeMCU:
- NodeMCU is based on the ESP8266-12E WIFI System-On-Chip, loaded with an open source, Lua-based firmware. The board is perfect for IoT application and other Situation where wireless connectivity is required. It has microcontroller-equipped prototyping boards which can be programmed using the Arduino IDE.![Nodemcu]
+ NodeMCU is based on the ESP8266-12E WIFI System-On-Chip, loaded with an open source, Lua-based firmware. The board is perfect for IoT application and other Situation where wireless connectivity is required. It has microcontroller-equipped prototyping boards which can be programmed using the Arduino IDE.
 ![NodeMcu](https://i.imgur.com/9K9bggy.png)
 
 ## NodeMCU ESP8266 Specifications & Features
@@ -17,7 +17,7 @@ The use of wireless technologies gives several advantages that could not be achi
 
 ## 2. Relay: 
 The relay is the device that open or closes the contacts to cause the operation of the other electric control. It works on the principle of an electromagnetic attraction. When the circuit of the relay senses the fault current, it energies the electromagnetic field which produces the temporary magnetic field. The magnetic field moves the relay armature for opening or closing the connections. The small power relay has only one contacts, and the high power relay has two contacts for opening the switch.
-![]([https://imgur.com/aK9ZFcv](https://i.imgur.com/vOwX7WA.png)
+![](https://i.imgur.com/vOwX7WA.png)
 
 ## 3. Google Firebase:
  Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides number of services, including: analytics, authentication, cloud messaging, realtime database, crashlytics, performance, test lab.
