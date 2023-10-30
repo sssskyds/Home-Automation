@@ -31,7 +31,7 @@ We are using two services of the firebase:-
 ![schemetic diagram](https://imgur.com/Jz7t4Jt)
 ![App interface](https://imgur.com/EzIn5aS)
 ![Google firebase](https://imgur.com/6OPXm1M)
-![flow chart](https://imgur.com/D1PsUCl)
+![flow chart](https://i.imgur.com/D1PsUCl.png)
 ## Conclusion
 The main purpose of home automation system is to provide ease to people to control different home appliances with the help of the android application present in the mobile phones and to save electricity, time and money. Automation of the home may have ones seemed like a particular and unlikely concept, but as our devices become smarter and more investment is poured into development of IoT consumer products.
 Our model is slightly different from the Arduino Type model as our model includes NodeMCU ESP8266 microcontroller-embedded with WiFi module ESP8266. That makes the model more compact and easier to connect with the house loads. It is cost effective as it includes the microcontroller and wifi embedded in the development board.
